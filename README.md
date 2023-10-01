@@ -24,7 +24,7 @@ Best regards,
 
 **Adarsh Joshi**
 <<<<<<< HEAD
- Team-AMD(Lead) 
+ Team-AMD
 =======
 
 Team-Lead-AMD
