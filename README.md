@@ -23,5 +23,10 @@ We appreciate your interest in our project and look forward to your contribution
 Best regards,
 
 **Adarsh Joshi**
+<<<<<<< HEAD
  Team-AMD(Lead) 
+=======
+
+Team-Lead-AMD
+>>>>>>> 4787b150560c3dc0067a324e747fd4330326be2a
 
